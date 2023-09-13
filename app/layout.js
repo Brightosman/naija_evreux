@@ -7,10 +7,10 @@ import { SessionProvider } from "next-auth/react"
 
 const inter = Inter({ subsets: ['latin'] })
 
-export const metadata = {
-  title: 'Nigerians in Eure',
-  description: 'It is a platform to connect all Nigerians in Evreux(City) and Eure(Department) department of Normandy France. It is also called Association of Nigerians in Eure Department',
-}
+// export const metadata = {
+//   title: 'Nigerians in Eure',
+//   description: 'It is a platform to connect all Nigerians in Evreux(City) and Eure(Department) department of Normandy France. It is also called Association of Nigerians in Eure Department',
+// }
 
 export default function RootLayout({ children }) {
   return (
