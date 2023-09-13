@@ -9,6 +9,7 @@ const Hero = () => {
   return (
     <div className="flex items-center justify-center">
         <div className="w-1/2 justify-center">
+            <h2>How Far From</h2>
             <h1 className="flex items-center hero__title">
                 Nigerians in Eure(Evreux)
             </h1>
